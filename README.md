@@ -1,1 +1,2 @@
 # final_project_s2025
+Authors: Shayda Yellowknee
